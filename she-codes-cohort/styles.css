@@ -1,0 +1,70 @@
+/* * {
+  border: 1px solid grey;
+} */
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  /* background color */
+}
+
+header {
+  height: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h3,
+a:hover {
+  color: hotpink;
+}
+
+/* Special Properties of Top Navigation Bar */
+
+#magnifying-glass {
+  width: 1rem;
+  height: 1rem;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+}
+
+/* Special Properties of Cohort Blocks */
+
+.main-content {
+  background-color: #e9e6e6e7;
+}
+
+.cohort-header {
+  text-align: center;
+}
+
+.profiles {
+  display: inline-block;
+  background-color: white;
+  border: 10px;
+  padding: 25px;
+  margin: 25px;
+  max-width: 75rem;
+}
+
+.bio {
+  width: fit-content;
+  height: fit-content;
+}
+
+.pet-images {
+  width: 35rem;
+  height: 20rem;
+}
+
+.they-code {
+  color: grey;
+}
